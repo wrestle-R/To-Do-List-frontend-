@@ -9,7 +9,7 @@
       "src/**/*.ts",
       "src/**/*.tsx",
       "*.js"
-    ],
+, "src/components/ui/flickering-grid.jsx"    ],
     "exclude": [
       "node_modules",
       "dist"
