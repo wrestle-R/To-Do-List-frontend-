@@ -43,7 +43,7 @@ export default function Hero() {
                 squareSize={7}
                 gridGap={6}
                 color="#5e34eb"
-                maxOpacity={0.7}
+                maxOpacity={1}
                 flickerChance={0.1}
               />
         <svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
